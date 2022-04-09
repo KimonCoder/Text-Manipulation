@@ -1,0 +1,18 @@
+body{
+    background-color:pink;
+    }
+    #title{
+    background-color:blue;
+    border-radius:20px;
+    margin-top:-20px;
+    }
+    Canvas{
+    background-color:grey;
+    border-radius:20px;
+    margin-left:300px;
+    margin-top:34px;
+    }
+    Video{
+    margin-left:60px;
+    border-radius:20px;
+    }
